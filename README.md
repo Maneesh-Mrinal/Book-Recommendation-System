@@ -4,7 +4,7 @@
 This repository contains code and resources for building a book recommendation system based on the Book Recommendation Dataset available on Kaggle. The dataset provides information about user ratings and book details, making it suitable for developing collaborative filtering-based recommendation systems.
 
 ## Dataset
-The dataset can be found on Kaggle: [Book Recommendation Dataset](<(https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)>)
+The dataset can be found on Kaggle: [Book Recommendation Dataset](<[https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset]>)
 
 ## Dataset Structure
 - **books.csv:** Contains information about books, including book ID, title, author, and publication year.
